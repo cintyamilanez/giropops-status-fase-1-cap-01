@@ -24,13 +24,13 @@ Os arquivos da aplicação (`app.py`, `templates/`, `static/`, `requirements.txt
 
 ## Checklist da semana (capítulo 1 do livro)
 
-- [ ] VM local criada no VirtualBox (ou UTM) com Ubuntu Server LTS
-- [ ] EC2 t2.micro provisionada na AWS, Free Tier confirmado
-- [ ] Key pair SSH criada (`ssh-keygen` se ainda não tiver)
-- [ ] `~/.ssh/config` com aliases para `vm` e `ec2`
-- [ ] `ssh-copy-id` funcionando nos dois ambientes
-- [ ] Consegue abrir dois terminais em paralelo e rodar `apt update` em ambos
-- [ ] (Bonus) `rsync` testado entre as máquinas
+- [ X ] VM local criada no VirtualBox (ou UTM) com Ubuntu Server LTS
+- [ X ] EC2 t2.micro provisionada na AWS, Free Tier confirmado
+- [ X ] Key pair SSH criada (`ssh-keygen` se ainda não tiver)
+- [ X ] `~/.ssh/config` com aliases para `vm` e `ec2`
+- [ X ] `ssh-copy-id` funcionando nos dois ambientes
+- [ X ] Consegue abrir dois terminais em paralelo e rodar `apt update` em ambos
+- [ X ] (Bonus) `rsync` testado entre as máquinas
 
 ## Entrega
 
